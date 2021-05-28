@@ -1,4 +1,4 @@
-# p2
+# Projeto 2 - MC886 - 1sem 2021
 Projeto 2 de Machine Learning MC886 1semestre 2021
 
 Desenvolvido em https://github.com/mc886A-1sem21/p2
